@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33801.447
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EsmaeelAPI", "EsmaeelAPI\EsmaeelAPI.csproj", "{0541E534-8188-48D0-879E-588E98A56E88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0541E534-8188-48D0-879E-588E98A56E88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0541E534-8188-48D0-879E-588E98A56E88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0541E534-8188-48D0-879E-588E98A56E88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0541E534-8188-48D0-879E-588E98A56E88}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09A4101A-09C2-4E52-9E9C-C92576C0B17B}
+	EndGlobalSection
+EndGlobal
